@@ -1,0 +1,891 @@
+"Obs","Consultant","ProjNum","Type","Date","Stage","Hours","IfRevised","Complete"
+"1","Smith",399,"Advising","01/22/2010",1,0.75,"No",0
+"2","Smith",399,"Advising","01/25/2010",3,0.75,"No",0
+"3","Smith",399,"Advising","01/26/2010",3,0.75,"Yes",0
+"4","Smith",399,"Advising","01/28/2010",4,1.25,"No",1
+"5","Brown",400,"IT/Web Development","01/26/2010",1,1.00,"No",0
+"6","Brown",400,"IT/Web Development","01/28/2010",2,1.00,"No",0
+"7","Brown",400,"IT/Web Development","02/01/2010",3,1.25,"Yes",0
+"8","Brown",400,"IT/Web Development","02/03/2010",3,1.00,"No",0
+"9","Brown",400,"IT/Web Development","02/05/2010",3,2.50,"No",0
+"10","Brown",400,"IT/Web Development","02/08/2010",3,3.00,"No",0
+"11","Brown",400,"IT/Web Development","02/10/2010",3,0.75,"No",0
+"12","Brown",400,"IT/Web Development","02/11/2010",3,3.00,"No",0
+"13","Brown",400,"IT/Web Development","02/12/2010",3,2.25,"Yes",0
+"14","Brown",400,"IT/Web Development","02/15/2010",3,1.00,"No",0
+"15","Brown",400,"IT/Web Development","02/16/2010",3,2.50,"No",0
+"16","Brown",400,"IT/Web Development","02/17/2010",4,2.25,"No",1
+"17","Brown",400,"IT/Web Development","02/19/2010",5,1.00,"No",1
+"18","Smith",401,"Data Analysis","01/27/2010",1,1.00,"No",0
+"19","Smith",401,"Data Analysis","01/28/2010",2,0.75,"No",0
+"20","Smith",401,"Data Analysis","02/01/2010",3,0.75,"No",0
+"21","Smith",401,"Data Analysis","02/03/2010",3,2.00,"No",0
+"22","Smith",401,"Data Analysis","02/04/2010",4,1.00,"No",1
+"23","Smith",402,"Data Analysis","02/01/2010",1,0.75,"No",0
+"24","Smith",402,"Data Analysis","02/04/2010",3,2.50,"No",0
+"25","Smith",402,"Data Analysis","02/08/2010",4,0.75,"No",1
+"26","Jones",403,"Study Coordination","02/05/2010",1,1.50,"No",0
+"27","Jones",403,"Study Coordination","02/08/2010",2,1.75,"No",0
+"28","Jones",403,"Study Coordination","02/09/2010",2,1.25,"No",0
+"29","Jones",403,"Study Coordination","02/10/2010",3,1.00,"No",0
+"30","Jones",403,"Study Coordination","02/11/2010",3,2.75,"Yes",0
+"31","Jones",403,"Study Coordination","02/15/2010",3,1.75,"Yes",0
+"32","Jones",403,"Study Coordination","02/17/2010",3,1.75,"No",0
+"33","Jones",403,"Study Coordination","02/19/2010",3,2.75,"No",0
+"34","Jones",403,"Study Coordination","02/22/2010",3,2.75,"No",0
+"35","Jones",403,"Study Coordination","02/24/2010",3,1.25,"No",0
+"36","Jones",403,"Study Coordination","02/25/2010",3,2.50,"No",0
+"37","Jones",403,"Study Coordination","02/26/2010",3,1.50,"No",0
+"38","Jones",403,"Study Coordination","03/01/2010",3,3.00,"Yes",0
+"39","Jones",403,"Study Coordination","03/03/2010",3,1.75,"No",0
+"40","Jones",403,"Study Coordination","03/05/2010",3,1.25,"No",0
+"41","Jones",403,"Study Coordination","03/15/2010",4,2.25,"No",1
+"42","Smith",404,"IT/Web Development","02/09/2010",1,1.50,"No",0
+"43","Smith",404,"IT/Web Development","02/10/2010",2,1.75,"No",0
+"44","Smith",404,"IT/Web Development","02/11/2010",2,1.00,"No",0
+"45","Smith",404,"IT/Web Development","02/12/2010",2,0.75,"Yes",0
+"46","Smith",404,"IT/Web Development","02/15/2010",2,0.75,"No",0
+"47","Smith",404,"IT/Web Development","02/16/2010",2,2.00,"No",0
+"48","Smith",404,"IT/Web Development","02/17/2010",3,1.50,"No",0
+"49","Smith",404,"IT/Web Development","02/19/2010",3,1.75,"No",0
+"50","Smith",404,"IT/Web Development","02/22/2010",3,3.00,"No",0
+"51","Smith",404,"IT/Web Development","02/24/2010",3,1.25,"No",0
+"52","Smith",404,"IT/Web Development","02/25/2010",3,2.25,"No",0
+"53","Smith",404,"IT/Web Development","03/01/2010",3,1.50,"No",0
+"54","Smith",404,"IT/Web Development","03/02/2010",3,1.25,"No",0
+"55","Smith",404,"IT/Web Development","03/03/2010",3,3.00,"No",0
+"56","Smith",404,"IT/Web Development","03/04/2010",3,1.50,"No",0
+"57","Smith",404,"IT/Web Development","03/15/2010",3,2.75,"No",0
+"58","Smith",404,"IT/Web Development","03/17/2010",3,0.75,"Yes",0
+"59","Smith",404,"IT/Web Development","03/18/2010",3,1.25,"No",0
+"60","Smith",404,"IT/Web Development","03/22/2010",4,1.00,"No",1
+"61","Smith",404,"IT/Web Development","03/23/2010",5,0.75,"No",1
+"62","Brown",405,"Advising","02/10/2010",1,1.00,"No",0
+"63","Brown",405,"Advising","02/12/2010",3,0.75,"No",0
+"64","Brown",405,"Advising","02/15/2010",4,1.00,"No",1
+"65","Brown",406,"Advising","02/12/2010",1,1.00,"No",0
+"66","Brown",406,"Advising","02/15/2010",3,1.00,"No",0
+"67","Brown",406,"Advising","02/16/2010",3,0.75,"No",0
+"68","Brown",406,"Advising","02/17/2010",4,1.25,"No",1
+"69","Jones",407,"Data Analysis","02/15/2010",1,0.75,"No",0
+"70","Jones",407,"Data Analysis","02/16/2010",2,0.75,"No",0
+"71","Jones",407,"Data Analysis","02/19/2010",3,2.75,"No",0
+"72","Jones",407,"Data Analysis","02/22/2010",3,0.75,"No",0
+"73","Jones",407,"Data Analysis","02/25/2010",3,1.00,"No",0
+"74","Jones",407,"Data Analysis","03/01/2010",4,0.75,"No",1
+"75","Brown",408,"Data Analysis","02/17/2010",1,0.75,"No",0
+"76","Brown",408,"Data Analysis","02/19/2010",2,0.75,"No",0
+"77","Brown",408,"Data Analysis","02/22/2010",2,0.75,"No",0
+"78","Brown",408,"Data Analysis","02/24/2010",2,0.75,"No",0
+"79","Brown",408,"Data Analysis","02/25/2010",3,1.25,"No",0
+"80","Brown",408,"Data Analysis","03/01/2010",3,1.25,"No",0
+"81","Brown",408,"Data Analysis","03/03/2010",4,0.75,"No",1
+"82","Jones",409,"Data Analysis","02/18/2010",1,0.75,"No",0
+"83","Jones",409,"Data Analysis","02/22/2010",2,0.75,"No",0
+"84","Jones",409,"Data Analysis","02/23/2010",2,0.75,"No",0
+"85","Jones",409,"Data Analysis","02/26/2010",3,2.25,"No",0
+"86","Jones",409,"Data Analysis","03/01/2010",4,0.75,"No",1
+"87","Jones",409,"Data Analysis","03/03/2010",5,1.00,"No",1
+"88","Brown",410,"Data Analysis","02/18/2010",1,1.00,"No",0
+"89","Brown",410,"Data Analysis","02/19/2010",2,0.75,"No",0
+"90","Brown",410,"Data Analysis","02/22/2010",2,0.75,"No",0
+"91","Brown",410,"Data Analysis","02/23/2010",4,1.00,"No",1
+"92","Brown",410,"Data Analysis","02/24/2010",5,0.75,"No",1
+"93","Smith",411,"Data Analysis","02/22/2010",1,0.75,"No",0
+"94","Smith",411,"Data Analysis","02/23/2010",2,0.75,"No",0
+"95","Smith",411,"Data Analysis","02/24/2010",2,0.75,"No",0
+"96","Smith",411,"Data Analysis","02/26/2010",2,0.75,"No",0
+"97","Smith",411,"Data Analysis","03/01/2010",3,2.25,"No",0
+"98","Smith",411,"Data Analysis","03/04/2010",3,2.25,"No",0
+"99","Smith",411,"Data Analysis","03/15/2010",3,1.25,"No",0
+"100","Smith",411,"Data Analysis","03/16/2010",4,1.00,"No",1
+"101","Brown",412,"Advising","02/24/2010",1,1.00,"No",0
+"102","Brown",412,"Advising","02/25/2010",2,0.75,"No",0
+"103","Brown",412,"Advising","02/26/2010",3,0.75,"No",0
+"104","Brown",412,"Advising","03/01/2010",4,0.75,"Yes",1
+"105","Brown",412,"Advising","03/03/2010",5,0.75,"No",1
+"106","Jones",413,"Study Coordination","02/26/2010",1,1.50,"Yes",0
+"107","Jones",413,"Study Coordination","03/01/2010",2,2.00,"No",0
+"108","Jones",413,"Study Coordination","03/03/2010",2,1.00,"No",0
+"109","Jones",413,"Study Coordination","03/04/2010",2,2.00,"No",0
+"110","Jones",413,"Study Coordination","03/15/2010",2,1.25,"Yes",0
+"111","Jones",413,"Study Coordination","03/18/2010",2,1.00,"No",0
+"112","Jones",413,"Study Coordination","03/22/2010",2,2.00,"No",0
+"113","Jones",413,"Study Coordination","03/25/2010",2,1.25,"No",0
+"114","Jones",413,"Study Coordination","03/26/2010",3,0.75,"No",0
+"115","Jones",413,"Study Coordination","03/29/2010",3,2.25,"Yes",0
+"116","Jones",413,"Study Coordination","04/01/2010",4,1.75,"No",0
+"117","Jones",413,"Study Coordination","04/05/2010",4,1.50,"No",1
+"118","Brown",414,"IT/Web Development","03/01/2010",1,1.50,"No",0
+"119","Brown",414,"IT/Web Development","03/03/2010",2,1.00,"Yes",0
+"120","Brown",414,"IT/Web Development","03/05/2010",2,1.50,"No",0
+"121","Brown",414,"IT/Web Development","03/15/2010",2,1.25,"No",0
+"122","Brown",414,"IT/Web Development","03/16/2010",2,1.50,"Yes",0
+"123","Brown",414,"IT/Web Development","03/18/2010",3,0.75,"No",0
+"124","Brown",414,"IT/Web Development","03/22/2010",3,1.25,"No",0
+"125","Brown",414,"IT/Web Development","03/24/2010",3,2.50,"No",0
+"126","Brown",414,"IT/Web Development","03/25/2010",3,1.00,"Yes",0
+"127","Brown",414,"IT/Web Development","03/29/2010",3,1.50,"No",0
+"128","Brown",414,"IT/Web Development","03/30/2010",3,2.25,"No",0
+"129","Brown",414,"IT/Web Development","04/01/2010",3,2.75,"Yes",0
+"130","Brown",414,"IT/Web Development","04/02/2010",3,3.00,"No",0
+"131","Brown",414,"IT/Web Development","04/05/2010",3,0.75,"No",0
+"132","Brown",414,"IT/Web Development","04/06/2010",3,1.25,"No",0
+"133","Brown",414,"IT/Web Development","04/07/2010",3,1.75,"No",0
+"134","Brown",414,"IT/Web Development","04/09/2010",4,1.00,"No",0
+"135","Brown",414,"IT/Web Development","04/12/2010",4,1.00,"No",1
+"136","Brown",415,"Study Coordination","03/05/2010",1,1.50,"No",0
+"137","Brown",415,"Study Coordination","03/15/2010",2,2.00,"No",0
+"138","Brown",415,"Study Coordination","03/16/2010",2,0.75,"No",0
+"139","Brown",415,"Study Coordination","03/17/2010",2,1.50,"Yes",0
+"140","Brown",415,"Study Coordination","03/18/2010",2,1.50,"No",0
+"141","Brown",415,"Study Coordination","03/22/2010",2,0.75,"No",0
+"142","Brown",415,"Study Coordination","03/24/2010",3,1.75,"No",0
+"143","Brown",415,"Study Coordination","03/26/2010",3,0.00,"No",0
+"144","Brown",415,"Study Coordination","03/29/2010",3,1.25,"No",0
+"145","Brown",415,"Study Coordination","03/30/2010",3,2.50,"Yes",0
+"146","Brown",415,"Study Coordination","03/31/2010",3,2.75,"No",0
+"147","Brown",415,"Study Coordination","04/01/2010",3,2.25,"No",0
+"148","Brown",415,"Study Coordination","04/05/2010",3,1.75,"No",0
+"149","Brown",415,"Study Coordination","04/06/2010",3,2.00,"No",0
+"150","Brown",415,"Study Coordination","04/08/2010",3,2.75,"No",0
+"151","Brown",415,"Study Coordination","04/12/2010",3,1.00,"No",0
+"152","Brown",415,"Study Coordination","04/13/2010",3,2.50,"No",0
+"153","Brown",415,"Study Coordination","04/14/2010",3,1.00,"Yes",0
+"154","Brown",415,"Study Coordination","04/16/2010",3,2.50,"No",0
+"155","Brown",415,"Study Coordination","04/19/2010",4,1.25,"No",0
+"156","Brown",415,"Study Coordination","04/21/2010",4,1.25,"No",0
+"157","Brown",415,"Study Coordination","04/23/2010",4,1.00,"No",0
+"158","Brown",415,"Study Coordination","04/26/2010",4,2.25,"Yes",1
+"159","Brown",415,"Study Coordination","04/30/2010",5,1.00,"No",1
+"160","Smith",416,"Advising","03/15/2010",1,0.75,"No",0
+"161","Smith",416,"Advising","03/17/2010",3,0.75,"No",0
+"162","Smith",416,"Advising","03/18/2010",4,1.25,"No",1
+"163","Jones",417,"IT/Web Development","03/15/2010",1,1.50,"No",0
+"164","Jones",417,"IT/Web Development","03/16/2010",2,2.00,"No",0
+"165","Jones",417,"IT/Web Development","03/17/2010",2,0.75,"No",0
+"166","Jones",417,"IT/Web Development","03/18/2010",2,1.25,"No",0
+"167","Jones",417,"IT/Web Development","03/22/2010",2,1.50,"Yes",0
+"168","Jones",417,"IT/Web Development","03/24/2010",2,1.75,"No",0
+"169","Jones",417,"IT/Web Development","03/26/2010",3,2.50,"No",0
+"170","Jones",417,"IT/Web Development","03/29/2010",3,2.00,"No",0
+"171","Jones",417,"IT/Web Development","03/30/2010",3,2.75,"No",0
+"172","Jones",417,"IT/Web Development","03/31/2010",3,1.00,"No",0
+"173","Jones",417,"IT/Web Development","04/02/2010",3,2.75,"Yes",0
+"174","Jones",417,"IT/Web Development","04/05/2010",3,3.00,"No",0
+"175","Jones",417,"IT/Web Development","04/06/2010",3,2.00,"Yes",0
+"176","Jones",417,"IT/Web Development","04/08/2010",3,2.75,"No",0
+"177","Jones",417,"IT/Web Development","04/09/2010",3,1.00,"No",0
+"178","Jones",417,"IT/Web Development","04/12/2010",4,2.25,"No",0
+"179","Jones",417,"IT/Web Development","04/13/2010",4,2.00,"No",1
+"180","Jones",418,"IT/Web Development","03/16/2010",1,1.00,"No",0
+"181","Jones",418,"IT/Web Development","03/17/2010",2,0.75,"No",0
+"182","Jones",418,"IT/Web Development","03/18/2010",2,1.75,"No",0
+"183","Jones",418,"IT/Web Development","03/22/2010",2,1.00,"No",0
+"184","Jones",418,"IT/Web Development","03/23/2010",2,1.25,"No",0
+"185","Jones",418,"IT/Web Development","03/24/2010",2,1.00,"No",0
+"186","Jones",418,"IT/Web Development","03/25/2010",3,0.75,"No",0
+"187","Jones",418,"IT/Web Development","03/29/2010",3,1.00,"Yes",0
+"188","Jones",418,"IT/Web Development","03/30/2010",3,3.00,"No",0
+"189","Jones",418,"IT/Web Development","04/01/2010",3,2.50,"No",0
+"190","Jones",418,"IT/Web Development","04/05/2010",3,2.25,"No",0
+"191","Jones",418,"IT/Web Development","04/06/2010",4,2.00,"No",0
+"192","Jones",418,"IT/Web Development","04/08/2010",4,0.75,"No",1
+"193","Smith",419,"Data Analysis","03/22/2010",1,0.75,"No",0
+"194","Smith",419,"Data Analysis","03/24/2010",2,0.75,"No",0
+"195","Smith",419,"Data Analysis","03/25/2010",2,0.75,"No",0
+"196","Smith",419,"Data Analysis","03/26/2010",2,0.75,"Yes",0
+"197","Smith",419,"Data Analysis","03/29/2010",3,2.25,"No",0
+"198","Smith",419,"Data Analysis","03/31/2010",4,1.00,"No",1
+"199","Brown",420,"IT/Web Development","03/24/2010",1,1.50,"No",0
+"200","Brown",420,"IT/Web Development","03/25/2010",2,1.00,"Yes",0
+"201","Brown",420,"IT/Web Development","03/26/2010",2,1.50,"No",0
+"202","Brown",420,"IT/Web Development","03/29/2010",2,0.75,"No",0
+"203","Brown",420,"IT/Web Development","03/31/2010",2,1.00,"No",0
+"204","Brown",420,"IT/Web Development","04/02/2010",3,2.75,"No",0
+"205","Brown",420,"IT/Web Development","04/05/2010",3,2.25,"No",0
+"206","Brown",420,"IT/Web Development","04/06/2010",3,0.75,"No",0
+"207","Brown",420,"IT/Web Development","04/07/2010",3,2.50,"No",0
+"208","Brown",420,"IT/Web Development","04/08/2010",4,1.75,"Yes",1
+"209","Jones",421,"Data Analysis","03/29/2010",1,0.75,"Yes",0
+"210","Jones",421,"Data Analysis","03/31/2010",2,0.75,"No",0
+"211","Jones",421,"Data Analysis","04/01/2010",2,0.75,"No",0
+"212","Jones",421,"Data Analysis","04/05/2010",3,1.75,"No",0
+"213","Jones",421,"Data Analysis","04/07/2010",3,2.50,"No",0
+"214","Jones",421,"Data Analysis","04/08/2010",4,1.00,"No",1
+"215","Brown",422,"Data Analysis","03/29/2010",1,1.00,"Yes",0
+"216","Brown",422,"Data Analysis","03/31/2010",2,0.75,"No",0
+"217","Brown",422,"Data Analysis","04/05/2010",3,2.00,"No",0
+"218","Brown",422,"Data Analysis","04/06/2010",3,2.50,"No",0
+"219","Brown",422,"Data Analysis","04/09/2010",3,0.75,"No",0
+"220","Brown",422,"Data Analysis","04/12/2010",4,1.00,"No",1
+"221","Smith",423,"Study Coordination","04/01/2010",1,1.50,"No",0
+"222","Smith",423,"Study Coordination","04/05/2010",2,2.00,"No",0
+"223","Smith",423,"Study Coordination","04/08/2010",2,0.75,"No",0
+"224","Smith",423,"Study Coordination","04/09/2010",2,1.50,"No",0
+"225","Smith",423,"Study Coordination","04/12/2010",2,0.75,"No",0
+"226","Smith",423,"Study Coordination","04/13/2010",2,1.25,"Yes",0
+"227","Smith",423,"Study Coordination","04/16/2010",2,1.25,"Yes",0
+"228","Smith",423,"Study Coordination","04/19/2010",3,0.75,"No",0
+"229","Smith",423,"Study Coordination","04/20/2010",3,2.25,"No",0
+"230","Smith",423,"Study Coordination","04/22/2010",3,2.50,"No",0
+"231","Smith",423,"Study Coordination","04/23/2010",3,2.75,"No",0
+"232","Smith",423,"Study Coordination","04/26/2010",4,2.25,"No",0
+"233","Smith",423,"Study Coordination","04/27/2010",4,2.50,"Yes",0
+"234","Smith",423,"Study Coordination","04/28/2010",4,0.75,"No",1
+"235","Smith",424,"IT/Web Development","04/05/2010",1,0.75,"No",0
+"236","Smith",424,"IT/Web Development","04/07/2010",2,1.50,"No",0
+"237","Smith",424,"IT/Web Development","04/09/2010",2,1.00,"No",0
+"238","Smith",424,"IT/Web Development","04/12/2010",2,1.75,"No",0
+"239","Smith",424,"IT/Web Development","04/14/2010",2,1.25,"No",0
+"240","Smith",424,"IT/Web Development","04/15/2010",2,0.75,"No",0
+"241","Smith",424,"IT/Web Development","04/19/2010",3,2.25,"No",0
+"242","Smith",424,"IT/Web Development","04/20/2010",3,2.50,"Yes",0
+"243","Smith",424,"IT/Web Development","04/21/2010",3,2.75,"No",0
+"244","Smith",424,"IT/Web Development","04/23/2010",4,1.50,"No",0
+"245","Smith",424,"IT/Web Development","04/26/2010",4,1.75,"No",1
+"246","Smith",424,"IT/Web Development","04/28/2010",5,0.75,"No",1
+"247","Jones",425,"Advising","04/08/2010",1,1.00,"Yes",0
+"248","Jones",425,"Advising","04/12/2010",4,0.75,"No",1
+"249","Brown",426,"Advising","04/08/2010",1,1.00,"No",0
+"250","Brown",426,"Advising","04/12/2010",3,1.00,"Yes",0
+"251","Brown",426,"Advising","04/14/2010",3,0.75,"No",0
+"252","Brown",426,"Advising","04/16/2010",4,1.00,"No",1
+"253","Smith",427,"Data Analysis","04/12/2010",1,0.75,"No",0
+"254","Smith",427,"Data Analysis","04/14/2010",2,0.75,"Yes",0
+"255","Smith",427,"Data Analysis","04/15/2010",3,2.25,"No",0
+"256","Smith",427,"Data Analysis","04/19/2010",3,1.75,"No",0
+"257","Smith",427,"Data Analysis","04/20/2010",4,1.00,"No",1
+"258","Jones",428,"Advising","04/15/2010",1,0.75,"Yes",0
+"259","Jones",428,"Advising","04/19/2010",2,0.75,"No",0
+"260","Jones",428,"Advising","04/21/2010",4,1.00,"Yes",1
+"261","Brown",430,"Study Coordination","04/15/2010",1,1.50,"Yes",0
+"262","Brown",430,"Study Coordination","04/19/2010",2,0.75,"No",0
+"263","Brown",430,"Study Coordination","04/21/2010",2,0.75,"No",0
+"264","Brown",430,"Study Coordination","04/26/2010",4,1.50,"Yes",0
+"265","Brown",430,"Study Coordination","04/27/2010",4,2.25,"No",0
+"266","Brown",430,"Study Coordination","04/29/2010",4,0.75,"No",1
+"267","Jones",431,"Advising","04/19/2010",1,0.75,"No",0
+"268","Jones",431,"Advising","04/21/2010",2,0.75,"No",0
+"269","Jones",431,"Advising","04/23/2010",3,0.75,"No",0
+"270","Jones",431,"Advising","04/26/2010",4,1.25,"No",1
+"271","Brown",432,"IT/Web Development","04/20/2010",1,0.75,"No",0
+"272","Brown",432,"IT/Web Development","04/22/2010",2,1.00,"No",0
+"273","Brown",432,"IT/Web Development","04/26/2010",4,0.75,"No",0
+"274","Brown",432,"IT/Web Development","04/28/2010",4,2.50,"No",1
+"275","Jones",433,"IT/Web Development","04/22/2010",1,1.00,"No",0
+"276","Jones",433,"IT/Web Development","04/23/2010",2,1.25,"No",0
+"277","Jones",433,"IT/Web Development","04/26/2010",2,1.50,"No",0
+"278","Jones",433,"IT/Web Development","04/28/2010",2,0.75,"No",0
+"279","Jones",433,"IT/Web Development","04/30/2010",2,1.00,"No",0
+"280","Jones",433,"IT/Web Development","05/03/2010",3,2.50,"No",0
+"281","Jones",433,"IT/Web Development","05/04/2010",3,0.75,"Yes",0
+"282","Jones",433,"IT/Web Development","05/17/2010",3,0.75,"No",0
+"283","Jones",433,"IT/Web Development","05/19/2010",3,2.25,"No",0
+"284","Jones",433,"IT/Web Development","05/21/2010",3,0.75,"No",0
+"285","Jones",433,"IT/Web Development","05/24/2010",3,2.00,"No",0
+"286","Jones",433,"IT/Web Development","05/25/2010",4,2.25,"Yes",1
+"287","Jones",433,"IT/Web Development","05/27/2010",5,0.75,"Yes",1
+"288","Smith",434,"Study Coordination","04/23/2010",1,1.25,"No",0
+"289","Smith",434,"Study Coordination","04/26/2010",2,2.00,"Yes",0
+"290","Smith",434,"Study Coordination","04/28/2010",2,0.75,"No",0
+"291","Smith",434,"Study Coordination","04/30/2010",2,2.00,"No",0
+"292","Smith",434,"Study Coordination","05/03/2010",2,0.75,"No",0
+"293","Smith",434,"Study Coordination","05/05/2010",2,0.00,"No",0
+"294","Smith",434,"Study Coordination","05/17/2010",3,1.75,"No",0
+"295","Smith",434,"Study Coordination","05/18/2010",3,2.25,"Yes",0
+"296","Smith",434,"Study Coordination","05/20/2010",3,1.25,"No",0
+"297","Smith",434,"Study Coordination","05/21/2010",3,2.25,"No",0
+"298","Smith",434,"Study Coordination","05/24/2010",3,1.00,"No",0
+"299","Smith",434,"Study Coordination","05/26/2010",3,1.25,"No",0
+"300","Smith",434,"Study Coordination","05/28/2010",3,1.00,"No",0
+"301","Smith",434,"Study Coordination","06/01/2010",3,2.00,"No",0
+"302","Smith",434,"Study Coordination","06/03/2010",3,2.50,"No",0
+"303","Smith",434,"Study Coordination","06/04/2010",3,1.25,"No",0
+"304","Smith",434,"Study Coordination","06/07/2010",3,1.00,"No",0
+"305","Smith",434,"Study Coordination","06/09/2010",3,2.00,"No",0
+"306","Smith",434,"Study Coordination","06/10/2010",3,1.50,"No",0
+"307","Smith",434,"Study Coordination","06/11/2010",3,3.00,"No",0
+"308","Smith",434,"Study Coordination","06/14/2010",3,1.25,"No",0
+"309","Smith",434,"Study Coordination","06/17/2010",4,2.00,"No",0
+"310","Smith",434,"Study Coordination","06/21/2010",4,2.00,"Yes",1
+"311","Smith",435,"IT/Web Development","04/27/2010",1,1.00,"No",0
+"312","Smith",435,"IT/Web Development","04/28/2010",2,1.00,"No",0
+"313","Smith",435,"IT/Web Development","04/30/2010",2,2.00,"No",0
+"314","Smith",435,"IT/Web Development","05/03/2010",2,0.75,"No",0
+"315","Smith",435,"IT/Web Development","05/05/2010",2,1.75,"No",0
+"316","Smith",435,"IT/Web Development","05/17/2010",2,0.75,"No",0
+"317","Smith",435,"IT/Web Development","05/19/2010",3,3.00,"Yes",0
+"318","Smith",435,"IT/Web Development","05/20/2010",4,1.00,"No",1
+"319","Jones",436,"Data Analysis","04/30/2010",1,0.75,"No",0
+"320","Jones",436,"Data Analysis","05/03/2010",2,0.75,"No",0
+"321","Jones",436,"Data Analysis","05/04/2010",3,2.00,"No",0
+"322","Jones",436,"Data Analysis","05/05/2010",4,1.00,"No",1
+"323","Brown",437,"Data Analysis","05/03/2010",1,0.75,"Yes",0
+"324","Brown",437,"Data Analysis","05/05/2010",2,0.75,"No",0
+"325","Brown",437,"Data Analysis","05/17/2010",2,0.75,"No",0
+"326","Brown",437,"Data Analysis","05/18/2010",3,2.25,"No",0
+"327","Brown",437,"Data Analysis","05/19/2010",4,1.00,"No",1
+"328","Brown",438,"Advising","05/04/2010",1,1.00,"No",0
+"329","Brown",438,"Advising","05/17/2010",2,0.75,"No",0
+"330","Brown",438,"Advising","05/18/2010",3,1.00,"No",0
+"331","Brown",438,"Advising","05/19/2010",4,1.00,"No",1
+"332","Jones",439,"Study Coordination","05/05/2010",1,1.00,"No",0
+"333","Jones",439,"Study Coordination","05/17/2010",2,1.25,"No",0
+"334","Jones",439,"Study Coordination","05/19/2010",2,1.00,"No",0
+"335","Jones",439,"Study Coordination","05/21/2010",2,1.25,"No",0
+"336","Jones",439,"Study Coordination","05/24/2010",2,1.00,"No",0
+"337","Jones",439,"Study Coordination","05/25/2010",3,3.00,"No",0
+"338","Jones",439,"Study Coordination","05/27/2010",0,2.50,"No",0
+"339","Jones",439,"Study Coordination","05/28/2010",3,0.75,"No",0
+"340","Jones",439,"Study Coordination","06/01/2010",3,2.00,"No",0
+"341","Jones",439,"Study Coordination","06/03/2010",3,1.00,"No",0
+"342","Jones",439,"Study Coordination","06/04/2010",3,2.75,"No",0
+"343","Jones",439,"Study Coordination","06/07/2010",0,1.50,"No",0
+"344","Jones",439,"Study Coordination","06/08/2010",0,1.50,"No",0
+"345","Jones",439,"Study Coordination","06/10/2010",3,2.25,"No",0
+"346","Jones",439,"Study Coordination","06/11/2010",3,1.75,"No",0
+"347","Jones",439,"Study Coordination","06/14/2010",3,0.75,"No",0
+"348","Jones",439,"Study Coordination","06/15/2010",3,2.25,"Yes",0
+"349","Jones",439,"Study Coordination","06/18/2010",4,2.25,"Yes",1
+"350","Jones",440,"Data Analysis","05/17/2010",1,1.00,"Yes",0
+"351","Jones",440,"Data Analysis","05/18/2010",4,0.75,"No",1
+"352","Brown",441,"Advising","05/17/2010",1,0.75,"No",0
+"353","Brown",441,"Advising","05/19/2010",2,0.75,"No",0
+"354","Brown",441,"Advising","05/20/2010",3,1.00,"No",0
+"355","Brown",441,"Advising","05/24/2010",4,1.25,"No",1
+"356","Brown",442,"Study Coordination","05/19/2010",1,1.75,"No",0
+"357","Brown",442,"Study Coordination","05/21/2010",2,1.50,"No",0
+"358","Brown",442,"Study Coordination","05/24/2010",2,1.75,"No",0
+"359","Brown",442,"Study Coordination","05/25/2010",2,1.75,"No",0
+"360","Brown",442,"Study Coordination","05/27/2010",3,2.50,"Yes",0
+"361","Brown",442,"Study Coordination","06/01/2010",3,2.25,"No",0
+"362","Brown",442,"Study Coordination","06/03/2010",3,1.25,"No",0
+"363","Brown",442,"Study Coordination","06/07/2010",3,2.50,"No",0
+"364","Brown",442,"Study Coordination","06/09/2010",3,3.00,"No",0
+"365","Brown",442,"Study Coordination","06/11/2010",3,1.75,"No",0
+"366","Brown",442,"Study Coordination","06/14/2010",3,2.50,"No",0
+"367","Brown",442,"Study Coordination","06/15/2010",3,1.25,"No",0
+"368","Brown",442,"Study Coordination","06/17/2010",3,2.75,"No",0
+"369","Brown",442,"Study Coordination","06/18/2010",3,1.25,"No",0
+"370","Brown",442,"Study Coordination","06/21/2010",3,0.75,"No",0
+"371","Brown",442,"Study Coordination","06/22/2010",3,0.75,"No",0
+"372","Brown",442,"Study Coordination","06/24/2010",3,1.00,"Yes",0
+"373","Brown",442,"Study Coordination","06/28/2010",4,1.25,"Yes",0
+"374","Brown",442,"Study Coordination","07/01/2010",4,1.50,"No",1
+"375","Brown",443,"Data Analysis","05/24/2010",1,1.00,"No",0
+"376","Brown",443,"Data Analysis","05/25/2010",2,0.75,"No",0
+"377","Brown",443,"Data Analysis","05/26/2010",2,0.75,"No",0
+"378","Brown",443,"Data Analysis","05/27/2010",3,0.75,"No",0
+"379","Brown",443,"Data Analysis","05/28/2010",4,1.00,"No",1
+"380","Brown",443,"Data Analysis","06/01/2010",5,0.75,"Yes",1
+"381","Smith",444,"Advising","05/27/2010",1,0.75,"No",0
+"382","Smith",444,"Advising","05/28/2010",2,0.75,"No",0
+"383","Smith",444,"Advising","06/01/2010",3,0.75,"No",0
+"384","Smith",444,"Advising","06/02/2010",4,0.75,"No",1
+"385","Jones",445,"IT/Web Development","05/28/2010",1,1.50,"No",0
+"386","Jones",445,"IT/Web Development","06/01/2010",2,1.00,"No",0
+"387","Jones",445,"IT/Web Development","06/02/2010",2,1.75,"Yes",0
+"388","Jones",445,"IT/Web Development","06/03/2010",2,2.00,"No",0
+"389","Jones",445,"IT/Web Development","06/04/2010",2,1.50,"No",0
+"390","Jones",445,"IT/Web Development","06/07/2010",2,2.00,"No",0
+"391","Jones",445,"IT/Web Development","06/09/2010",3,3.00,"Yes",0
+"392","Jones",445,"IT/Web Development","06/10/2010",3,3.00,"No",0
+"393","Jones",445,"IT/Web Development","06/14/2010",3,1.75,"No",0
+"394","Jones",445,"IT/Web Development","06/16/2010",3,2.75,"No",0
+"395","Jones",445,"IT/Web Development","06/17/2010",3,2.75,"No",0
+"396","Jones",445,"IT/Web Development","06/21/2010",3,1.25,"Yes",0
+"397","Jones",445,"IT/Web Development","06/23/2010",3,1.00,"No",0
+"398","Jones",445,"IT/Web Development","06/24/2010",3,2.25,"No",0
+"399","Jones",445,"IT/Web Development","06/25/2010",4,1.75,"Yes",1
+"400","Jones",445,"IT/Web Development","06/28/2010",5,0.75,"No",1
+"401","Brown",446,"Data Analysis","06/01/2010",1,0.75,"No",0
+"402","Brown",446,"Data Analysis","06/02/2010",2,0.75,"No",0
+"403","Brown",446,"Data Analysis","06/03/2010",2,0.75,"No",0
+"404","Brown",446,"Data Analysis","06/07/2010",2,0.75,"No",0
+"405","Brown",446,"Data Analysis","06/08/2010",3,1.50,"No",0
+"406","Brown",446,"Data Analysis","06/11/2010",3,2.00,"Yes",0
+"407","Brown",446,"Data Analysis","06/14/2010",3,2.00,"No",0
+"408","Brown",446,"Data Analysis","06/15/2010",3,1.75,"No",0
+"409","Brown",446,"Data Analysis","06/16/2010",4,0.75,"No",1
+"410","Smith",447,"Data Analysis","06/03/2010",1,0.75,"No",0
+"411","Smith",447,"Data Analysis","06/04/2010",3,2.25,"No",0
+"412","Smith",447,"Data Analysis","06/07/2010",4,1.00,"No",1
+"413","Brown",448,"Data Analysis","06/07/2010",1,1.00,"No",0
+"414","Brown",448,"Data Analysis","06/09/2010",2,0.75,"No",0
+"415","Brown",448,"Data Analysis","06/10/2010",2,0.75,"No",0
+"416","Brown",448,"Data Analysis","06/11/2010",3,1.50,"Yes",0
+"417","Brown",448,"Data Analysis","06/14/2010",3,2.25,"No",0
+"418","Brown",448,"Data Analysis","06/16/2010",3,2.75,"No",0
+"419","Brown",448,"Data Analysis","06/17/2010",3,3.00,"No",0
+"420","Brown",448,"Data Analysis","06/21/2010",4,1.00,"No",1
+"421","Brown",448,"Data Analysis","06/22/2010",5,1.00,"No",1
+"422","Smith",450,"IT/Web Development","06/09/2010",1,1.25,"Yes",0
+"423","Smith",450,"IT/Web Development","06/10/2010",2,1.25,"No",0
+"424","Smith",450,"IT/Web Development","06/11/2010",3,2.00,"No",0
+"425","Smith",450,"IT/Web Development","06/14/2010",3,2.75,"No",0
+"426","Smith",450,"IT/Web Development","06/15/2010",3,2.00,"No",0
+"427","Smith",450,"IT/Web Development","06/16/2010",3,1.75,"No",0
+"428","Smith",450,"IT/Web Development","06/17/2010",3,1.00,"No",0
+"429","Smith",450,"IT/Web Development","06/21/2010",3,1.25,"No",0
+"430","Smith",450,"IT/Web Development","06/23/2010",3,1.00,"No",0
+"431","Smith",450,"IT/Web Development","06/25/2010",3,2.75,"No",0
+"432","Smith",450,"IT/Web Development","06/28/2010",4,0.75,"No",0
+"433","Smith",450,"IT/Web Development","06/30/2010",4,2.25,"No",1
+"434","Smith",450,"IT/Web Development","07/01/2010",5,0.75,"No",1
+"435","Brown",451,"Data Analysis","06/11/2010",1,1.00,"No",0
+"436","Brown",451,"Data Analysis","06/14/2010",2,0.75,"No",0
+"437","Brown",451,"Data Analysis","06/17/2010",3,2.00,"No",0
+"438","Brown",451,"Data Analysis","06/18/2010",3,2.75,"No",0
+"439","Brown",451,"Data Analysis","06/21/2010",3,2.50,"Yes",0
+"440","Brown",451,"Data Analysis","06/22/2010",4,1.00,"No",1
+"441","Jones",452,"Study Coordination","06/14/2010",1,1.75,"No",0
+"442","Jones",452,"Study Coordination","06/15/2010",2,1.50,"No",0
+"443","Jones",452,"Study Coordination","06/16/2010",2,1.50,"No",0
+"444","Jones",452,"Study Coordination","06/18/2010",2,1.75,"Yes",0
+"445","Jones",452,"Study Coordination","06/21/2010",2,2.00,"No",0
+"446","Jones",452,"Study Coordination","06/23/2010",3,2.50,"No",0
+"447","Jones",452,"Study Coordination","06/25/2010",3,1.50,"No",0
+"448","Jones",452,"Study Coordination","06/28/2010",3,0.75,"No",0
+"449","Jones",452,"Study Coordination","06/30/2010",3,1.50,"Yes",0
+"450","Jones",452,"Study Coordination","07/02/2010",0,1.00,"No",0
+"451","Jones",452,"Study Coordination","07/06/2010",4,2.00,"No",1
+"452","Jones",452,"Study Coordination","07/08/2010",5,2.00,"No",1
+"453","Jones",453,"Advising","06/18/2010",1,1.00,"No",0
+"454","Jones",453,"Advising","06/21/2010",4,1.25,"No",1
+"455","Smith",454,"Study Coordination","06/22/2010",1,2.00,"No",0
+"456","Smith",454,"Study Coordination","06/24/2010",3,2.75,"Yes",0
+"457","Smith",454,"Study Coordination","06/25/2010",3,2.25,"No",0
+"458","Smith",454,"Study Coordination","06/28/2010",3,2.50,"No",0
+"459","Smith",454,"Study Coordination","06/29/2010",3,1.25,"No",0
+"460","Smith",454,"Study Coordination","07/01/2010",3,3.00,"No",0
+"461","Smith",454,"Study Coordination","07/02/2010",3,2.50,"Yes",0
+"462","Smith",454,"Study Coordination","07/06/2010",3,3.00,"Yes",0
+"463","Smith",454,"Study Coordination","07/08/2010",3,1.00,"No",0
+"464","Smith",454,"Study Coordination","07/12/2010",3,3.00,"Yes",0
+"465","Smith",454,"Study Coordination","07/13/2010",3,2.75,"No",0
+"466","Smith",454,"Study Coordination","07/14/2010",3,2.75,"No",0
+"467","Smith",454,"Study Coordination","07/15/2010",3,0.00,"No",0
+"468","Smith",454,"Study Coordination","07/19/2010",3,3.00,"No",0
+"469","Smith",454,"Study Coordination","07/20/2010",4,1.00,"No",0
+"470","Smith",454,"Study Coordination","07/23/2010",4,1.50,"No",0
+"471","Smith",454,"Study Coordination","07/26/2010",4,2.00,"No",1
+"472","Brown",455,"Study Coordination","06/24/2010",1,2.00,"No",0
+"473","Brown",455,"Study Coordination","06/25/2010",3,3.00,"No",0
+"474","Brown",455,"Study Coordination","06/28/2010",3,1.50,"No",0
+"475","Brown",455,"Study Coordination","06/29/2010",3,2.75,"No",0
+"476","Brown",455,"Study Coordination","06/30/2010",3,1.50,"Yes",0
+"477","Brown",455,"Study Coordination","07/02/2010",3,1.25,"No",0
+"478","Brown",455,"Study Coordination","07/06/2010",3,3.00,"No",0
+"479","Brown",455,"Study Coordination","07/09/2010",4,2.00,"No",0
+"480","Brown",455,"Study Coordination","07/12/2010",4,1.75,"No",0
+"481","Brown",455,"Study Coordination","07/13/2010",4,2.25,"No",0
+"482","Brown",455,"Study Coordination","07/14/2010",4,2.25,"No",1
+"483","Brown",455,"Study Coordination","07/15/2010",5,2.00,"No",1
+"484","Smith",456,"Advising","06/28/2010",1,1.00,"No",0
+"485","Smith",456,"Advising","06/30/2010",3,1.00,"No",0
+"486","Smith",456,"Advising","07/01/2010",3,0.75,"No",0
+"487","Smith",456,"Advising","07/06/2010",4,1.25,"No",1
+"488","Jones",457,"Study Coordination","07/02/2010",1,1.50,"No",0
+"489","Jones",457,"Study Coordination","07/06/2010",3,1.25,"Yes",0
+"490","Jones",457,"Study Coordination","07/07/2010",3,1.25,"Yes",0
+"491","Jones",457,"Study Coordination","07/08/2010",3,1.75,"Yes",0
+"492","Jones",457,"Study Coordination","07/09/2010",3,3.00,"No",0
+"493","Jones",457,"Study Coordination","07/12/2010",3,1.25,"No",0
+"494","Jones",457,"Study Coordination","07/14/2010",3,0.75,"Yes",0
+"495","Jones",457,"Study Coordination","07/16/2010",3,1.25,"No",0
+"496","Jones",457,"Study Coordination","07/19/2010",3,0.75,"No",0
+"497","Jones",457,"Study Coordination","07/21/2010",3,2.75,"No",0
+"498","Jones",457,"Study Coordination","07/23/2010",3,0.75,"No",0
+"499","Jones",457,"Study Coordination","07/26/2010",3,1.75,"No",0
+"500","Jones",457,"Study Coordination","07/27/2010",4,0.75,"No",0
+"501","Jones",457,"Study Coordination","07/30/2010",4,1.00,"No",1
+"502","Brown",458,"Study Coordination","07/06/2010",1,1.25,"No",0
+"503","Brown",458,"Study Coordination","07/09/2010",2,1.50,"No",0
+"504","Brown",458,"Study Coordination","07/12/2010",2,1.25,"No",0
+"505","Brown",458,"Study Coordination","07/13/2010",2,1.25,"No",0
+"506","Brown",458,"Study Coordination","07/15/2010",2,2.00,"No",0
+"507","Brown",458,"Study Coordination","07/19/2010",2,0.75,"Yes",0
+"508","Brown",458,"Study Coordination","07/22/2010",2,1.25,"Yes",0
+"509","Brown",458,"Study Coordination","07/26/2010",2,1.00,"Yes",0
+"510","Brown",458,"Study Coordination","07/27/2010",2,1.00,"No",0
+"511","Brown",458,"Study Coordination","07/28/2010",2,1.00,"No",0
+"512","Brown",458,"Study Coordination","07/30/2010",2,1.00,"Yes",0
+"513","Brown",458,"Study Coordination","08/02/2010",3,1.50,"No",0
+"514","Brown",458,"Study Coordination","08/04/2010",3,1.75,"No",0
+"515","Brown",458,"Study Coordination","08/05/2010",3,2.00,"No",0
+"516","Brown",458,"Study Coordination","08/09/2010",3,2.50,"Yes",0
+"517","Brown",458,"Study Coordination","08/11/2010",0,3.00,"No",0
+"518","Brown",458,"Study Coordination","08/13/2010",3,1.00,"No",0
+"519","Brown",458,"Study Coordination","08/16/2010",3,1.50,"No",0
+"520","Brown",458,"Study Coordination","08/17/2010",3,1.25,"No",0
+"521","Brown",458,"Study Coordination","08/19/2010",3,1.00,"No",0
+"522","Brown",458,"Study Coordination","08/23/2010",3,3.00,"No",0
+"523","Brown",458,"Study Coordination","08/25/2010",3,2.50,"No",0
+"524","Brown",458,"Study Coordination","08/30/2010",4,0.00,"No",0
+"525","Brown",458,"Study Coordination","09/01/2010",4,1.50,"No",1
+"526","Brown",458,"Study Coordination","09/06/2010",5,2.00,"No",1
+"527","Brown",459,"IT/Web Development","07/09/2010",1,1.25,"No",0
+"528","Brown",459,"IT/Web Development","07/12/2010",2,1.75,"No",0
+"529","Brown",459,"IT/Web Development","07/13/2010",2,0.00,"No",0
+"530","Brown",459,"IT/Web Development","07/15/2010",2,0.75,"No",0
+"531","Brown",459,"IT/Web Development","07/16/2010",3,2.25,"Yes",0
+"532","Brown",459,"IT/Web Development","07/19/2010",3,0.75,"No",0
+"533","Brown",459,"IT/Web Development","07/20/2010",3,3.00,"No",0
+"534","Brown",459,"IT/Web Development","07/21/2010",3,1.00,"No",0
+"535","Brown",459,"IT/Web Development","07/22/2010",3,1.00,"No",0
+"536","Brown",459,"IT/Web Development","07/23/2010",3,2.75,"No",0
+"537","Brown",459,"IT/Web Development","07/26/2010",3,1.00,"No",0
+"538","Brown",459,"IT/Web Development","07/27/2010",3,2.25,"No",0
+"539","Brown",459,"IT/Web Development","07/28/2010",4,2.50,"Yes",1
+"540","Brown",459,"IT/Web Development","07/30/2010",5,0.75,"No",1
+"541","Jones",460,"IT/Web Development","07/12/2010",1,1.50,"Yes",0
+"542","Jones",460,"IT/Web Development","07/13/2010",3,1.50,"No",0
+"543","Jones",460,"IT/Web Development","07/14/2010",3,1.75,"No",0
+"544","Jones",460,"IT/Web Development","07/15/2010",3,0.00,"No",0
+"545","Jones",460,"IT/Web Development","07/19/2010",3,1.75,"No",0
+"546","Jones",460,"IT/Web Development","07/20/2010",3,1.00,"No",0
+"547","Jones",460,"IT/Web Development","07/21/2010",3,2.50,"No",0
+"548","Jones",460,"IT/Web Development","07/23/2010",3,0.75,"Yes",0
+"549","Jones",460,"IT/Web Development","07/26/2010",3,1.50,"No",0
+"550","Jones",460,"IT/Web Development","07/28/2010",4,1.50,"No",1
+"551","Smith",461,"Data Analysis","07/13/2010",1,0.75,"Yes",0
+"552","Smith",461,"Data Analysis","07/15/2010",3,2.75,"No",0
+"553","Smith",461,"Data Analysis","07/19/2010",3,2.75,"No",0
+"554","Smith",461,"Data Analysis","07/20/2010",3,1.75,"No",0
+"555","Smith",461,"Data Analysis","07/22/2010",4,1.00,"Yes",1
+"556","Smith",461,"Data Analysis","07/26/2010",5,0.75,"No",1
+"557","Jones",463,"Advising","07/19/2010",1,0.75,"No",0
+"558","Jones",463,"Advising","07/20/2010",2,0.75,"No",0
+"559","Jones",463,"Advising","07/22/2010",4,1.25,"No",1
+"560","Smith",464,"Study Coordination","07/19/2010",1,1.00,"No",0
+"561","Smith",464,"Study Coordination","07/21/2010",2,0.75,"No",0
+"562","Smith",464,"Study Coordination","07/26/2010",0,1.00,"No",0
+"563","Smith",464,"Study Coordination","07/27/2010",2,1.00,"No",0
+"564","Smith",464,"Study Coordination","07/29/2010",2,1.25,"No",0
+"565","Smith",464,"Study Coordination","07/30/2010",2,1.00,"Yes",0
+"566","Smith",464,"Study Coordination","08/02/2010",2,2.00,"Yes",0
+"567","Smith",464,"Study Coordination","08/03/2010",2,1.00,"No",0
+"568","Smith",464,"Study Coordination","08/05/2010",2,1.75,"No",0
+"569","Smith",464,"Study Coordination","08/06/2010",3,2.50,"No",0
+"570","Smith",464,"Study Coordination","08/09/2010",3,0.75,"No",0
+"571","Smith",464,"Study Coordination","08/10/2010",3,3.00,"Yes",0
+"572","Smith",464,"Study Coordination","08/12/2010",3,0.75,"No",0
+"573","Smith",464,"Study Coordination","08/13/2010",4,1.00,"No",0
+"574","Smith",464,"Study Coordination","08/16/2010",4,1.75,"No",0
+"575","Smith",464,"Study Coordination","08/17/2010",4,2.25,"No",0
+"576","Smith",464,"Study Coordination","08/20/2010",4,1.50,"Yes",1
+"577","Brown",465,"Advising","07/20/2010",1,1.00,"No",0
+"578","Brown",465,"Advising","07/21/2010",2,0.75,"Yes",0
+"579","Brown",465,"Advising","07/23/2010",3,0.75,"No",0
+"580","Brown",465,"Advising","07/26/2010",4,1.25,"No",1
+"581","Brown",465,"Advising","07/27/2010",5,1.00,"No",1
+"582","Jones",466,"Data Analysis","07/23/2010",1,0.75,"Yes",0
+"583","Jones",466,"Data Analysis","07/26/2010",3,1.00,"No",0
+"584","Jones",466,"Data Analysis","07/27/2010",4,1.00,"Yes",1
+"585","Jones",467,"Data Analysis","07/23/2010",1,1.00,"No",0
+"586","Jones",467,"Data Analysis","07/26/2010",2,0.75,"No",0
+"587","Jones",467,"Data Analysis","07/29/2010",3,1.75,"No",0
+"588","Jones",467,"Data Analysis","08/02/2010",3,2.50,"Yes",0
+"589","Jones",467,"Data Analysis","08/03/2010",4,0.75,"No",1
+"590","Brown",468,"IT/Web Development","07/27/2010",1,1.25,"No",0
+"591","Brown",468,"IT/Web Development","07/29/2010",2,0.75,"No",0
+"592","Brown",468,"IT/Web Development","07/30/2010",2,1.75,"No",0
+"593","Brown",468,"IT/Web Development","08/02/2010",2,0.75,"No",0
+"594","Brown",468,"IT/Web Development","08/04/2010",2,2.00,"No",0
+"595","Brown",468,"IT/Web Development","08/05/2010",2,1.50,"Yes",0
+"596","Brown",468,"IT/Web Development","08/09/2010",3,1.25,"No",0
+"597","Brown",468,"IT/Web Development","08/11/2010",3,3.00,"Yes",0
+"598","Brown",468,"IT/Web Development","08/12/2010",3,1.75,"No",0
+"599","Brown",468,"IT/Web Development","08/16/2010",3,1.75,"No",0
+"600","Brown",468,"IT/Web Development","08/17/2010",3,2.75,"No",0
+"601","Brown",468,"IT/Web Development","08/19/2010",3,2.00,"No",0
+"602","Brown",468,"IT/Web Development","08/23/2010",3,0.75,"Yes",0
+"603","Brown",468,"IT/Web Development","08/25/2010",3,2.75,"No",0
+"604","Brown",468,"IT/Web Development","08/27/2010",3,2.00,"Yes",0
+"605","Brown",468,"IT/Web Development","08/30/2010",4,2.50,"No",0
+"606","Brown",468,"IT/Web Development","08/31/2010",4,2.25,"No",1
+"607","Brown",469,"Advising","07/27/2010",1,1.00,"No",0
+"608","Brown",469,"Advising","07/28/2010",2,0.75,"No",0
+"609","Brown",469,"Advising","07/29/2010",3,0.75,"No",0
+"610","Brown",469,"Advising","07/30/2010",4,1.25,"No",1
+"611","Jones",470,"Study Coordination","07/29/2010",1,0.75,"Yes",0
+"612","Jones",470,"Study Coordination","08/02/2010",2,1.25,"No",0
+"613","Jones",470,"Study Coordination","08/05/2010",2,2.00,"No",0
+"614","Jones",470,"Study Coordination","08/09/2010",2,2.00,"No",0
+"615","Jones",470,"Study Coordination","08/12/2010",2,1.25,"No",0
+"616","Jones",470,"Study Coordination","08/16/2010",2,0.75,"No",0
+"617","Jones",470,"Study Coordination","08/19/2010",2,0.75,"No",0
+"618","Jones",470,"Study Coordination","08/23/2010",2,1.75,"No",0
+"619","Jones",470,"Study Coordination","08/25/2010",2,1.50,"No",0
+"620","Jones",470,"Study Coordination","08/30/2010",2,1.25,"No",0
+"621","Jones",470,"Study Coordination","09/01/2010",2,0.75,"Yes",0
+"622","Jones",470,"Study Coordination","09/03/2010",3,0.00,"No",0
+"623","Jones",470,"Study Coordination","09/06/2010",3,2.00,"No",0
+"624","Jones",470,"Study Coordination","09/08/2010",3,2.00,"Yes",0
+"625","Jones",470,"Study Coordination","09/09/2010",3,0.75,"No",0
+"626","Jones",470,"Study Coordination","09/10/2010",3,2.00,"No",0
+"627","Jones",470,"Study Coordination","09/13/2010",3,2.50,"No",0
+"628","Jones",470,"Study Coordination","09/14/2010",3,3.00,"Yes",0
+"629","Jones",470,"Study Coordination","09/15/2010",4,1.50,"Yes",0
+"630","Jones",470,"Study Coordination","09/17/2010",4,1.75,"No",0
+"631","Jones",470,"Study Coordination","09/20/2010",4,1.75,"No",1
+"632","Jones",470,"Study Coordination","09/24/2010",5,1.00,"Yes",1
+"633","Smith",471,"IT/Web Development","08/02/2010",1,0.75,"No",0
+"634","Smith",471,"IT/Web Development","08/04/2010",2,1.75,"No",0
+"635","Smith",471,"IT/Web Development","08/05/2010",3,2.50,"No",0
+"636","Smith",471,"IT/Web Development","08/09/2010",3,1.00,"No",0
+"637","Smith",471,"IT/Web Development","08/10/2010",3,2.00,"No",0
+"638","Smith",471,"IT/Web Development","08/12/2010",3,2.25,"No",0
+"639","Smith",471,"IT/Web Development","08/13/2010",3,1.25,"Yes",0
+"640","Smith",471,"IT/Web Development","08/16/2010",3,3.00,"No",0
+"641","Smith",471,"IT/Web Development","08/17/2010",3,1.00,"No",0
+"642","Smith",471,"IT/Web Development","08/19/2010",4,2.00,"No",1
+"643","Smith",472,"Data Analysis","08/05/2010",1,1.00,"No",0
+"644","Smith",472,"Data Analysis","08/09/2010",4,0.75,"No",1
+"645","Smith",472,"Data Analysis","08/10/2010",5,0.75,"No",1
+"646","Jones",473,"Advising","08/06/2010",1,0.75,"No",0
+"647","Jones",473,"Advising","08/09/2010",3,1.00,"No",0
+"648","Jones",473,"Advising","08/10/2010",3,1.00,"Yes",0
+"649","Jones",473,"Advising","08/11/2010",0,0.75,"No",1
+"650","Brown",474,"Advising","08/09/2010",1,1.00,"No",0
+"651","Brown",474,"Advising","08/10/2010",3,1.00,"No",0
+"652","Brown",474,"Advising","08/12/2010",4,1.25,"Yes",1
+"653","Jones",475,"Data Analysis","08/12/2010",1,1.00,"No",0
+"654","Jones",475,"Data Analysis","08/13/2010",3,1.75,"Yes",0
+"655","Jones",475,"Data Analysis","08/16/2010",3,2.75,"No",0
+"656","Jones",475,"Data Analysis","08/18/2010",4,0.75,"No",1
+"657","Smith",476,"Data Analysis","08/13/2010",1,1.00,"No",0
+"658","Smith",476,"Data Analysis","08/16/2010",2,0.75,"No",0
+"659","Smith",476,"Data Analysis","08/17/2010",3,2.00,"No",0
+"660","Smith",476,"Data Analysis","08/19/2010",3,1.75,"Yes",0
+"661","Smith",476,"Data Analysis","08/20/2010",3,2.75,"No",0
+"662","Smith",476,"Data Analysis","08/23/2010",3,3.00,"No",0
+"663","Smith",476,"Data Analysis","08/25/2010",4,1.00,"No",1
+"664","Brown",478,"Data Analysis","08/17/2010",1,0.75,"No",0
+"665","Brown",478,"Data Analysis","08/20/2010",3,0.75,"No",0
+"666","Brown",478,"Data Analysis","08/23/2010",4,0.75,"No",1
+"667","Brown",479,"Data Analysis","08/17/2010",1,0.75,"No",0
+"668","Brown",479,"Data Analysis","08/18/2010",4,0.75,"No",1
+"669","Smith",480,"Data Analysis","08/19/2010",1,1.00,"No",0
+"670","Smith",480,"Data Analysis","08/20/2010",2,0.75,"No",0
+"671","Smith",480,"Data Analysis","08/23/2010",2,0.00,"No",0
+"672","Smith",480,"Data Analysis","08/24/2010",3,1.00,"No",0
+"673","Smith",480,"Data Analysis","08/27/2010",3,2.00,"No",0
+"674","Smith",480,"Data Analysis","08/30/2010",3,0.75,"No",0
+"675","Smith",480,"Data Analysis","08/31/2010",4,0.75,"No",1
+"676","Jones",481,"IT/Web Development","08/19/2010",1,0.75,"No",0
+"677","Jones",481,"IT/Web Development","08/23/2010",2,2.00,"Yes",0
+"678","Jones",481,"IT/Web Development","08/25/2010",2,0.75,"No",0
+"679","Jones",481,"IT/Web Development","08/26/2010",3,2.00,"No",0
+"680","Jones",481,"IT/Web Development","08/30/2010",3,1.25,"Yes",0
+"681","Jones",481,"IT/Web Development","09/01/2010",3,2.50,"Yes",0
+"682","Jones",481,"IT/Web Development","09/02/2010",3,3.00,"No",0
+"683","Jones",481,"IT/Web Development","09/06/2010",3,1.75,"No",0
+"684","Jones",481,"IT/Web Development","09/07/2010",3,3.00,"No",0
+"685","Jones",481,"IT/Web Development","09/08/2010",3,0.75,"No",0
+"686","Jones",481,"IT/Web Development","09/09/2010",4,2.50,"No",0
+"687","Jones",481,"IT/Web Development","09/13/2010",4,1.00,"No",1
+"688","Jones",482,"Data Analysis","08/23/2010",1,1.00,"No",0
+"689","Jones",482,"Data Analysis","08/24/2010",2,0.75,"No",0
+"690","Jones",482,"Data Analysis","08/25/2010",2,0.75,"No",0
+"691","Jones",482,"Data Analysis","08/27/2010",2,0.75,"No",0
+"692","Jones",482,"Data Analysis","08/30/2010",3,3.00,"Yes",0
+"693","Jones",482,"Data Analysis","08/31/2010",3,2.00,"No",0
+"694","Jones",482,"Data Analysis","09/03/2010",3,2.00,"No",0
+"695","Jones",482,"Data Analysis","09/06/2010",4,0.75,"No",1
+"696","Brown",483,"Advising","08/24/2010",1,1.00,"No",0
+"697","Brown",483,"Advising","08/25/2010",2,0.75,"No",0
+"698","Brown",483,"Advising","08/27/2010",3,0.75,"No",0
+"699","Brown",483,"Advising","08/30/2010",4,1.00,"No",1
+"700","Smith",484,"Data Analysis","08/24/2010",1,0.75,"Yes",0
+"701","Smith",484,"Data Analysis","08/25/2010",2,0.75,"No",0
+"702","Smith",484,"Data Analysis","08/27/2010",3,1.25,"No",0
+"703","Smith",484,"Data Analysis","08/30/2010",3,2.25,"Yes",0
+"704","Smith",484,"Data Analysis","09/01/2010",4,1.00,"No",1
+"705","Brown",485,"Advising","08/30/2010",1,0.75,"Yes",0
+"706","Brown",485,"Advising","09/01/2010",2,0.75,"No",0
+"707","Brown",485,"Advising","09/02/2010",3,0.75,"No",0
+"708","Brown",485,"Advising","09/06/2010",4,0.75,"No",1
+"709","Brown",486,"Data Analysis","08/31/2010",1,0.75,"No",0
+"710","Brown",486,"Data Analysis","09/02/2010",2,0.75,"No",0
+"711","Brown",486,"Data Analysis","09/03/2010",2,0.75,"No",0
+"712","Brown",486,"Data Analysis","09/06/2010",3,3.00,"No",0
+"713","Brown",486,"Data Analysis","09/08/2010",3,1.75,"No",0
+"714","Brown",486,"Data Analysis","09/10/2010",4,0.75,"No",1
+"715","Brown",486,"Data Analysis","09/13/2010",5,0.75,"No",1
+"716","Smith",487,"Data Analysis","09/01/2010",1,0.75,"No",0
+"717","Smith",487,"Data Analysis","09/03/2010",2,0.75,"No",0
+"718","Smith",487,"Data Analysis","09/06/2010",2,0.75,"Yes",0
+"719","Smith",487,"Data Analysis","09/07/2010",3,1.25,"No",0
+"720","Smith",487,"Data Analysis","09/10/2010",3,0.75,"No",0
+"721","Smith",487,"Data Analysis","09/13/2010",4,0.75,"No",1
+"722","Smith",488,"Study Coordination","09/02/2010",1,1.75,"No",0
+"723","Smith",488,"Study Coordination","09/06/2010",2,1.75,"No",0
+"724","Smith",488,"Study Coordination","09/09/2010",2,0.75,"No",0
+"725","Smith",488,"Study Coordination","09/13/2010",2,1.50,"No",0
+"726","Smith",488,"Study Coordination","09/14/2010",2,0.75,"No",0
+"727","Smith",488,"Study Coordination","09/16/2010",2,1.00,"No",0
+"728","Smith",488,"Study Coordination","09/17/2010",2,2.00,"No",0
+"729","Smith",488,"Study Coordination","09/20/2010",2,1.50,"No",0
+"730","Smith",488,"Study Coordination","09/23/2010",2,2.00,"No",0
+"731","Smith",488,"Study Coordination","09/24/2010",2,2.00,"No",0
+"732","Smith",488,"Study Coordination","09/27/2010",3,0.75,"Yes",0
+"733","Smith",488,"Study Coordination","09/28/2010",3,1.75,"No",0
+"734","Smith",488,"Study Coordination","09/29/2010",3,2.00,"No",0
+"735","Smith",488,"Study Coordination","10/01/2010",3,0.75,"No",0
+"736","Smith",488,"Study Coordination","10/04/2010",3,1.00,"No",0
+"737","Smith",488,"Study Coordination","10/05/2010",3,2.50,"No",0
+"738","Smith",488,"Study Coordination","10/06/2010",3,1.50,"No",0
+"739","Smith",488,"Study Coordination","10/08/2010",3,1.75,"Yes",0
+"740","Smith",488,"Study Coordination","10/13/2010",3,2.25,"No",0
+"741","Smith",488,"Study Coordination","10/14/2010",4,1.50,"No",1
+"742","Brown",489,"IT/Web Development","09/03/2010",1,1.00,"Yes",0
+"743","Brown",489,"IT/Web Development","09/06/2010",2,1.25,"No",0
+"744","Brown",489,"IT/Web Development","09/08/2010",2,2.00,"No",0
+"745","Brown",489,"IT/Web Development","09/09/2010",3,2.25,"No",0
+"746","Brown",489,"IT/Web Development","09/10/2010",3,2.75,"Yes",0
+"747","Brown",489,"IT/Web Development","09/13/2010",0,1.00,"No",0
+"748","Brown",489,"IT/Web Development","09/14/2010",4,1.25,"No",1
+"749","Brown",489,"IT/Web Development","09/15/2010",5,1.00,"No",1
+"750","Smith",490,"IT/Web Development","09/06/2010",1,1.00,"No",0
+"751","Smith",490,"IT/Web Development","09/07/2010",2,2.00,"No",0
+"752","Smith",490,"IT/Web Development","09/09/2010",2,1.75,"No",0
+"753","Smith",490,"IT/Web Development","09/10/2010",2,0.75,"No",0
+"754","Smith",490,"IT/Web Development","09/13/2010",3,2.00,"Yes",0
+"755","Smith",490,"IT/Web Development","09/14/2010",4,1.00,"No",0
+"756","Smith",490,"IT/Web Development","09/15/2010",4,2.25,"No",1
+"757","Smith",490,"IT/Web Development","09/16/2010",5,0.75,"No",1
+"758","Jones",491,"Advising","09/07/2010",1,0.75,"No",0
+"759","Jones",491,"Advising","09/09/2010",4,1.25,"No",1
+"760","Brown",493,"Data Analysis","09/13/2010",1,0.75,"No",0
+"761","Brown",493,"Data Analysis","09/15/2010",2,0.75,"No",0
+"762","Brown",493,"Data Analysis","09/20/2010",3,2.00,"No",0
+"763","Brown",493,"Data Analysis","09/21/2010",4,1.00,"No",1
+"764","Smith",494,"Advising","09/14/2010",1,1.00,"No",0
+"765","Smith",494,"Advising","09/16/2010",3,1.00,"No",0
+"766","Smith",494,"Advising","09/20/2010",3,1.00,"Yes",0
+"767","Smith",494,"Advising","09/21/2010",4,0.75,"No",1
+"768","Brown",495,"Advising","09/17/2010",1,0.75,"Yes",0
+"769","Brown",495,"Advising","09/20/2010",2,0.75,"No",0
+"770","Brown",495,"Advising","09/21/2010",4,1.00,"No",1
+"771","Jones",496,"IT/Web Development","09/20/2010",1,1.50,"No",0
+"772","Jones",496,"IT/Web Development","09/22/2010",2,0.75,"No",0
+"773","Jones",496,"IT/Web Development","09/24/2010",3,2.25,"No",0
+"774","Jones",496,"IT/Web Development","09/27/2010",0,1.00,"No",0
+"775","Jones",496,"IT/Web Development","09/29/2010",3,3.00,"No",0
+"776","Jones",496,"IT/Web Development","09/30/2010",3,0.00,"No",0
+"777","Jones",496,"IT/Web Development","10/04/2010",3,1.25,"No",0
+"778","Jones",496,"IT/Web Development","10/06/2010",3,3.00,"No",0
+"779","Jones",496,"IT/Web Development","10/07/2010",3,1.00,"No",0
+"780","Jones",496,"IT/Web Development","10/08/2010",3,1.25,"No",0
+"781","Jones",496,"IT/Web Development","10/13/2010",3,2.25,"No",0
+"782","Jones",496,"IT/Web Development","10/15/2010",4,2.00,"No",1
+"783","Jones",497,"Advising","09/23/2010",1,0.75,"No",0
+"784","Jones",497,"Advising","09/27/2010",3,0.75,"No",0
+"785","Jones",497,"Advising","09/28/2010",3,0.75,"No",0
+"786","Jones",497,"Advising","09/30/2010",4,1.25,"No",1
+"787","Smith",498,"Study Coordination","09/24/2010",1,1.75,"No",0
+"788","Smith",498,"Study Coordination","09/27/2010",2,0.75,"No",0
+"789","Smith",498,"Study Coordination","09/29/2010",2,2.00,"No",0
+"790","Smith",498,"Study Coordination","10/04/2010",2,1.50,"No",0
+"791","Smith",498,"Study Coordination","10/06/2010",2,2.00,"No",0
+"792","Smith",498,"Study Coordination","10/13/2010",2,1.75,"No",0
+"793","Smith",498,"Study Coordination","10/18/2010",2,2.00,"No",0
+"794","Smith",498,"Study Coordination","10/21/2010",2,1.25,"Yes",0
+"795","Smith",498,"Study Coordination","10/25/2010",2,0.75,"No",0
+"796","Smith",498,"Study Coordination","10/28/2010",2,1.50,"Yes",0
+"797","Smith",498,"Study Coordination","11/01/2010",3,1.75,"No",0
+"798","Smith",498,"Study Coordination","11/03/2010",3,2.50,"No",0
+"799","Smith",498,"Study Coordination","11/04/2010",3,1.25,"No",0
+"800","Brown",499,"IT/Web Development","09/24/2010",1,1.50,"Yes",0
+"801","Brown",499,"IT/Web Development","09/27/2010",2,1.75,"No",0
+"802","Brown",499,"IT/Web Development","09/29/2010",2,1.75,"No",0
+"803","Brown",499,"IT/Web Development","09/30/2010",2,1.25,"No",0
+"804","Brown",499,"IT/Web Development","10/01/2010",3,2.50,"No",0
+"805","Brown",499,"IT/Web Development","10/04/2010",4,0.75,"Yes",0
+"806","Brown",499,"IT/Web Development","10/05/2010",4,1.25,"No",1
+"807","Jones",500,"Advising","09/28/2010",1,0.75,"No",0
+"808","Jones",500,"Advising","09/29/2010",2,0.75,"No",0
+"809","Jones",500,"Advising","10/01/2010",3,1.00,"No",0
+"810","Jones",500,"Advising","10/04/2010",4,0.75,"No",1
+"811","Brown",501,"Study Coordination","10/01/2010",1,1.75,"No",0
+"812","Brown",501,"Study Coordination","10/04/2010",2,2.00,"No",0
+"813","Brown",501,"Study Coordination","10/06/2010",3,2.50,"Yes",0
+"814","Brown",501,"Study Coordination","10/08/2010",4,2.00,"No",0
+"815","Brown",501,"Study Coordination","10/13/2010",4,2.50,"No",0
+"816","Brown",501,"Study Coordination","10/15/2010",4,1.50,"No",0
+"817","Brown",501,"Study Coordination","10/18/2010",4,1.00,"No",1
+"818","Brown",501,"Study Coordination","10/22/2010",5,1.25,"No",1
+"819","Jones",502,"Advising","10/05/2010",1,1.00,"No",0
+"820","Jones",502,"Advising","10/06/2010",2,0.75,"No",0
+"821","Jones",502,"Advising","10/08/2010",3,0.75,"Yes",0
+"822","Jones",502,"Advising","10/13/2010",3,1.00,"No",0
+"823","Jones",502,"Advising","10/15/2010",4,1.00,"No",1
+"824","Jones",502,"Advising","10/18/2010",5,1.00,"No",1
+"825","Jones",503,"Advising","10/07/2010",1,0.75,"No",0
+"826","Jones",503,"Advising","10/13/2010",2,0.75,"Yes",0
+"827","Jones",503,"Advising","10/14/2010",4,1.25,"No",1
+"828","Brown",504,"IT/Web Development","10/13/2010",1,0.75,"No",0
+"829","Brown",504,"IT/Web Development","10/14/2010",2,1.75,"No",0
+"830","Brown",504,"IT/Web Development","10/18/2010",2,2.00,"No",0
+"831","Brown",504,"IT/Web Development","10/19/2010",2,1.25,"Yes",0
+"832","Brown",504,"IT/Web Development","10/20/2010",2,2.00,"No",0
+"833","Brown",504,"IT/Web Development","10/21/2010",2,1.25,"No",0
+"834","Brown",504,"IT/Web Development","10/22/2010",3,1.00,"No",0
+"835","Brown",504,"IT/Web Development","10/25/2010",3,2.75,"Yes",0
+"836","Brown",504,"IT/Web Development","10/26/2010",3,1.25,"Yes",0
+"837","Brown",504,"IT/Web Development","10/27/2010",3,1.50,"No",0
+"838","Brown",504,"IT/Web Development","10/28/2010",3,0.75,"No",0
+"839","Brown",504,"IT/Web Development","10/29/2010",3,2.75,"No",0
+"840","Brown",504,"IT/Web Development","11/01/2010",3,2.25,"No",0
+"841","Brown",504,"IT/Web Development","11/03/2010",3,2.50,"No",0
+"842","Jones",505,"IT/Web Development","10/18/2010",1,1.50,"No",0
+"843","Jones",505,"IT/Web Development","10/19/2010",2,1.50,"No",0
+"844","Jones",505,"IT/Web Development","10/20/2010",2,1.50,"No",0
+"845","Jones",505,"IT/Web Development","10/22/2010",2,1.25,"No",0
+"846","Jones",505,"IT/Web Development","10/25/2010",2,1.25,"No",0
+"847","Jones",505,"IT/Web Development","10/27/2010",2,0.75,"No",0
+"848","Jones",505,"IT/Web Development","10/29/2010",3,2.75,"No",0
+"849","Jones",505,"IT/Web Development","11/01/2010",3,0.75,"No",0
+"850","Jones",505,"IT/Web Development","11/03/2010",3,2.50,"No",0
+"851","Smith",506,"Advising","10/19/2010",1,0.75,"No",0
+"852","Smith",506,"Advising","10/20/2010",3,1.00,"No",0
+"853","Smith",506,"Advising","10/22/2010",3,1.00,"No",0
+"854","Smith",506,"Advising","10/25/2010",4,1.00,"Yes",1
+"855","Jones",507,"Advising","10/22/2010",1,0.75,"No",0
+"856","Jones",507,"Advising","10/25/2010",2,0.75,"Yes",0
+"857","Jones",507,"Advising","10/26/2010",3,1.00,"No",0
+"858","Jones",507,"Advising","10/27/2010",3,0.75,"Yes",0
+"859","Jones",507,"Advising","10/28/2010",4,1.25,"No",1
+"860","Brown",508,"Advising","10/22/2010",1,1.00,"No",0
+"861","Brown",508,"Advising","10/25/2010",2,0.75,"No",0
+"862","Brown",508,"Advising","10/27/2010",3,0.75,"No",0
+"863","Brown",508,"Advising","10/29/2010",4,1.00,"No",1
+"864","Brown",509,"IT/Web Development","10/22/2010",1,0.75,"No",0
+"865","Brown",509,"IT/Web Development","10/25/2010",2,1.75,"No",0
+"866","Brown",509,"IT/Web Development","10/26/2010",2,1.50,"No",0
+"867","Brown",509,"IT/Web Development","10/28/2010",2,1.50,"No",0
+"868","Brown",509,"IT/Web Development","11/01/2010",2,0.75,"No",0
+"869","Brown",509,"IT/Web Development","11/02/2010",3,1.75,"No",0
+"870","Brown",509,"IT/Web Development","11/03/2010",3,2.50,"No",0
+"871","Brown",509,"IT/Web Development","11/04/2010",3,1.50,"No",0
+"872","Jones",510,"Advising","10/25/2010",1,1.00,"No",0
+"873","Jones",510,"Advising","10/26/2010",2,0.75,"No",0
+"874","Jones",510,"Advising","10/28/2010",3,0.75,"No",0
+"875","Jones",510,"Advising","11/01/2010",4,1.00,"No",1
+"876","Smith",511,"IT/Web Development","10/26/2010",1,0.75,"No",0
+"877","Smith",511,"IT/Web Development","10/28/2010",2,1.50,"No",0
+"878","Smith",511,"IT/Web Development","10/29/2010",2,0.75,"No",0
+"879","Smith",511,"IT/Web Development","11/01/2010",2,2.00,"No",0
+"880","Smith",511,"IT/Web Development","11/02/2010",2,0.75,"No",0
+"881","Smith",511,"IT/Web Development","11/04/2010",2,1.75,"No",0
+"882","Brown",512,"IT/Web Development","10/29/2010",1,1.00,"No",0
+"883","Brown",512,"IT/Web Development","11/01/2010",2,0.75,"No",0
+"884","Brown",512,"IT/Web Development","11/03/2010",3,1.00,"No",0
+"885","Jones",513,"Advising","10/29/2010",1,0.00,"No",0
+"886","Jones",513,"Advising","11/01/2010",4,1.00,"No",1
+"887","Jones",514,"Advising","11/02/2010",1,0.75,"No",0
+"888","Jones",514,"Advising","11/03/2010",2,0.75,"No",0
+"889","Jones",514,"Advising","11/04/2010",4,0.75,"No",1
+
